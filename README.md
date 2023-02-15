@@ -6,4 +6,5 @@ Figma link: [Click](https://www.figma.com/file/CzmRyD4vy5o2ziiN36Q82t/CalendarX-
 App code: [Click](https://github.com/igor-hub-maker/Diary)
 <br>
 App icon:
+<p>
 <img src="https://github.com/liubquanti/CalendarX.design/blob/main/Icon.png?raw=true" width="500" height="500">
