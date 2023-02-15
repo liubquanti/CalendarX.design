@@ -8,4 +8,4 @@
 <br>
 //〔✨〕Icon PNG full resolution file: [Click](https://github.com/liubquanti/CalendarX.design/blob/main/Icon.png).
 <br>
-//〔✒️〕Icon .ai file: [Click](https://github.com/liubquanti/CalendarX.design/blob/main/Icon.ai).
+//〔✒️〕Icon AI (Adobe Illustrator) file: [Click](https://github.com/liubquanti/CalendarX.design/blob/main/Icon.ai).
