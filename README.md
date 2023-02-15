@@ -4,6 +4,8 @@
 <br>
 //〔🧩〕Figma design link: [Click](https://www.figma.com/file/CzmRyD4vy5o2ziiN36Q82t/CalendarX-design?node-id=0%3A1&t=qN576z3EuVUW835b-1).
 <br>
+//〔📦〕Figma design file: [Click](https://github.com/liubquanti/CalendarX.design/blob/main/CalendarX%20design.fig).
+<br>
 //〔📂〕App code: [Click](https://github.com/igor-hub-maker/Diary).
 <br>
 //〔✨〕Icon PNG full resolution file: [Click](https://github.com/liubquanti/CalendarX.design/blob/main/Icon.png).
