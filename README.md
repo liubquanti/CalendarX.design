@@ -6,5 +6,5 @@
 #〔📱〕App code: [Click](https://github.com/igor-hub-maker/Diary)
 <br>
 #〔✨〕App icon:
-<p>
+
 # <a href="url"><img src="https://github.com/liubquanti/CalendarX.design/blob/main/Icon.png" height="auto" width="200" style="border-radius:50%"></a>
