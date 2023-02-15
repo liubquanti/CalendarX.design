@@ -7,5 +7,4 @@ App code: [Click](https://github.com/igor-hub-maker/Diary)
 <br>
 App icon:
 <p>
-<img src="https://github.com/liubquanti/CalendarX.design/blob/main/Icon.png?raw=true" width="250" height="250">
 <a href="url"><img src="https://github.com/liubquanti/CalendarX.design/blob/main/Icon.png?raw=true" height="auto" width="200" style="border-radius:50%"></a>
