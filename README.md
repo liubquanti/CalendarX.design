@@ -12,4 +12,4 @@
 <br>
 //〔✒️〕Icon AI (Adobe Illustrator) file: [Click](https://github.com/liubquanti/CalendarX.design/blob/main/Icon.ai).
 <br>
-# <a href="url"><img src="https://github.com/liubquanti/CalendarX.design/blob/main/Banner.png" height="auto" width="900" style="border-radius:10%"></a>
+# <a href="url"><img src="https://github.com/liubquanti/CalendarX.design/blob/main/Banner.png" height="1080" width="1920" style="border-radius:10%"></a>
