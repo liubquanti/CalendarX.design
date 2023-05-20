@@ -1,4 +1,4 @@
-# <a href="url"><img src="https://i.postimg.cc/nrSmLYBX/Icon.png" height="auto" width="200" style="border-radius:50%"></a>
+# <a href="url"><img src="https://i.postimg.cc/nrSmLYBX/Icon.png" height="auto" width="200" style="border-radius:50px"></a>
 # // CalendarX.design //
 //〔📆〕Simple design for CaledarX diary app.
 <br>
@@ -12,5 +12,5 @@
 <br>
 //〔✒️〕Icon AI (Adobe Illustrator) file: [Click](https://sharemods.com/fbc0dtuxn18l/Icon.ai.html).
 <br>
-# <a href="url"><img src="https://i.postimg.cc/9MMFf3pB/App-banner.png" height="auto" width="1280" style="border-radius:10%"></a>
+# <a href="url"><img src="https://i.postimg.cc/9MMFf3pB/App-banner.png" height="auto" width="1280" style="border-radius:50px"></a>
 <br>
