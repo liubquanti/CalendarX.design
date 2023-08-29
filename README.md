@@ -4,7 +4,7 @@
 <br>
 //〔🧩〕Figma design link: [Click](https://www.figma.com/file/G7XTsY0X4PJM3PRqrSSSZx/CalendarX).
 <br>
-//〔📦〕Figma design file: [Click](https://sharemods.com/s4iia8d802e7/CalendarX_design.fig.html).
+//〔📦〕Figma design file: [Click](https://github.com/liubquanti/CalendarX.design/blob/main/CalendarX.fig).
 <br>
 //〔📂〕App code: [Click](https://github.com/igor-hub-maker/Diary).
 <br>
