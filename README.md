@@ -2,7 +2,7 @@
 # // CalendarX.design //
 //〔📆〕Simple design for CaledarX diary app.
 <br>
-//〔🧩〕Figma design link: [Click](https://www.figma.com/file/CzmRyD4vy5o2ziiN36Q82t/CalendarX-design).
+//〔🧩〕Figma design link: [Click](https://www.figma.com/file/G7XTsY0X4PJM3PRqrSSSZx/CalendarX).
 <br>
 //〔📦〕Figma design file: [Click](https://sharemods.com/s4iia8d802e7/CalendarX_design.fig.html).
 <br>
