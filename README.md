@@ -10,7 +10,7 @@
 <br>
 //〔✨〕Icon PNG full resolution file: [Click](https://i.postimg.cc/nrSmLYBX/Icon.png).
 <br>
-//〔✒️〕Icon AI (Adobe Illustrator) file: [Click](https://sharemods.com/fbc0dtuxn18l/Icon.ai.html).
+//〔✒️〕Icon AI (Adobe Illustrator) file: [Click](https://github.com/liubquanti/CalendarX.design/blob/main/Icon.ai).
 <br>
 # <a href="url"><img src="https://i.postimg.cc/9MMFf3pB/App-banner.png" height="auto" width="1280" style="border-radius:50px"></a>
 <br>
